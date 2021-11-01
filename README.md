@@ -20,4 +20,4 @@ This is illegal if you use this without the consent of the owners — in this ca
 
 ## Support
 If you need any help with something you can join our Discord server:
-https://discord.gg/fqmkz5cbVg
+Coming Soon!
